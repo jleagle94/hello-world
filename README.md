@@ -1,10 +1,3 @@
 # hello-world
-
-practiceeeeeee
-
-poopy doopy doooo
-
-practice
-hello-world, 
-my name is jordan eagle. i am a third year PhD student at Clemson University. i like to be active outdoors with my animals. i like to read books and run. etc. etc. etc.
+This is my second git-hub repository. Technically, it's my first ever but my aws_projects and others have been given way more love. I will now use my hello-world repository for my Radiative Processes course (ASTR8100). I will rename this repository to reflect this. It is now called "astr_project" 
 
